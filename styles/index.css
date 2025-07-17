@@ -73,7 +73,7 @@
 }
 .flower-img-first{
     width: 100%;
-     margin-left: 240px;
+    margin-left: 50px;
 }
  
 .flower-img-third{
@@ -288,7 +288,7 @@
         text-align: center;
      }
      .flower-img-section, .varieties-flowers{
-        width: none;
+        width: 0;
         margin-right: 0%;
      }
     .flower-img-first {
