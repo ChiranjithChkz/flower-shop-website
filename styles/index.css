@@ -182,6 +182,35 @@
     border-radius: 8px;
 }
 
+/* Subscribe section styles */
+
+.subscribe-option{
+    text-align:center ;
+}
+.subs-heading{
+    padding-top: 250px;
+    font-size: 2.5rem;
+    font-weight: 700;
+}
+.email-section{
+    margin-bottom: 250px;
+}
+#email-enter{
+    padding-left: 30px;
+    width: 800px;
+    height:62px ;
+    border: none;
+}
+#btn-primary-2:hover {
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    transition: 0.5s ease;
+    background-color: black;
+}
+#btn-primary-2 a{
+    text-decoration: none;
+    color: aliceblue;
+}
 
 
 
@@ -269,6 +298,9 @@
     }
     .flower-section{
         margin-left: 20px;
+    }
+    #email-enter{
+        width: 200px;
     }
 
 }
