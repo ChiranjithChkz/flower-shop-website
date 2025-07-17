@@ -72,9 +72,7 @@
     width: 100%;
      margin-left: 240px;
 }
-.flower-img-second{
-     
-}
+ 
 .flower-img-third{
     margin-right:240px;
 }
@@ -163,7 +161,26 @@
     color: #E55473;
 }
  
+/* social media section */
 
+.instagram{
+    text-align: center;
+     
+}
+.social-title{
+    margin-top: 83px;
+    font-size: 2.5rem;
+    font-weight: 700;
+}
+.flower-section{
+    margin-top: 48px;
+    display:flex;
+    justify-content: center;
+    gap: 20px;
+}
+.flower-card{
+    border-radius: 8px;
+}
 
 
 
@@ -191,7 +208,7 @@
 /* Responsive Media query added here */
 
 @media screen and (max-width: 576px) {
-      .header, .flower-img-section {
+      .header, .flower-img-section, .flower-section {
         flex-direction: column;
       }
        
@@ -246,6 +263,12 @@
     .offer-box{
         padding-top: 20px;
         padding-left: 20px;
+    }
+    #sign-up-btn{
+        margin-bottom: 20px;
+    }
+    .flower-section{
+        margin-left: 20px;
     }
 
 }
