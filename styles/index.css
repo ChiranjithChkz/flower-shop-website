@@ -5,6 +5,9 @@
   font-weight: 400;
    
 }
+*{
+    margin: 0;
+}
 
 /* shared styles */
 .display-flex{
@@ -212,26 +215,38 @@
     color: aliceblue;
 }
 
+/* footer section styles */
 
+.footer-bg{
+    text-align: center;
+     align-content: center;
+    background-color: black;
+    width: 100%;
+    height:449px ;
+}
+.footer-titles{
+     font-size: 4rem;
+     font-weight: 700;
+}
+.pink{
+    color: #E55473;
+}
+.white{
+    color: aliceblue;
+}
+.footer-description{
+    margin-top: 20px;
+    font-size: 1.25rem;
+    font-weight: 400;
+    color: aliceblue;
+}
+.copy-right{
+    margin-top: 30px;
+    color: rgba(255, 255, 255, 0.4);
+    font-size: 1rem;
+    font-weight: 400;
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+}
 
 
 /* Responsive Media query added here */
@@ -301,6 +316,13 @@
     }
     #email-enter{
         width: 200px;
+    }
+     
+    .footer-titles{
+        font-size: 2rem;
+    }
+    .footer-description{
+        font-size: 10px;
     }
 
 }
