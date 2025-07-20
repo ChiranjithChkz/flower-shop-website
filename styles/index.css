@@ -93,8 +93,8 @@
 .bg-1{
      
     text-align: center;
-    width: 464px;
-    height: 538px;
+    width: 420px;
+    height: 500px;
     background-color: rgba(167, 33, 98, 0.15);
     border-radius: 300px 300px 0px 0px;
 
@@ -102,8 +102,8 @@
 .bg-2{
      
     text-align: center;
-   width: 464px;
-    height: 538px;
+   width: 420px;
+    height: 500px;
     background: rgba(5, 151, 160, 0.15);
     border-radius: 300px 300px 0px 0px;
 
@@ -111,8 +111,8 @@
 .bg-3{
      
     text-align: center;
-    width: 464px;
-    height: 538px;
+    width: 420px;
+    height: 500px;
     background: rgba(71, 125, 17, 0.15);
     border-radius: 300px 300px 0px 0px;
 
