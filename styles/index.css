@@ -44,6 +44,9 @@
     width: 100%; 
      height: auto;
     padding-top: 20px;
+  margin:0 ;
+  padding: 20px;
+  
 }
 .btn-primary{
     background-color:#E55473 ;
