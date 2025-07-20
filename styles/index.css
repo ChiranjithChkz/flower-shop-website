@@ -26,7 +26,7 @@
     background-color:rgba(229, 84, 115, 0.1) ;
      width: 100%;
      margin: 0 auto;
-     align-items: center;
+     align-items: left;
      padding: 0;
      gap: 30px;
 }
@@ -91,7 +91,7 @@
    text-align: center;
 }
 .bg-1{
-     
+    padding-left:60px;
     text-align: center;
     width: 420px;
     height: 500px;
@@ -153,9 +153,9 @@
     
 }
 .offer-box{
-    max-width: 594px;
+   
     padding-top: 180px;
-    padding-left: 300px;
+    align-items:center;
     text-align: center;
 }
 .offer-title{
